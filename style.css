@@ -1,0 +1,15 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+.header {
+    background-color: black;
+}
+.header__title {
+    color: aqua;
+    text-align: center;
+}
